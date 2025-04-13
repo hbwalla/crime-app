@@ -4,7 +4,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import '../styles/map.css';
 import OptionsMenu from './OptionsMenu';
 
-mapboxgl.accessToken = "";
+mapboxgl.accessToken = "MAPBOXGL_API_KEY";
 
 // The main component in the UI is the map component!
 const MapComponent = () => {
