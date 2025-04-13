@@ -1,0 +1,52 @@
+[
+    {
+      "id": 101,
+      "headline": "Suspicious Package Triggers Police Investigation Near Flatiron",
+      "summary": "Police cordoned off an area near 23rd Street after a suspicious package was reported. The bomb squad later confirmed it was harmless.",
+      "date": "2025-04-11",
+      "time": "14:45",
+      "location": {"latitude": 40.7412, "longitude": -73.9896},
+      "tags": ["public safety", "breaking news"],
+      "link": "https://localnewsnyc.com/article/101"
+    },
+    {
+      "id": 102,
+      "headline": "Bike-Pedestrian Collision Sends One to Hospital",
+      "summary": "A pedestrian was hit by a cyclist near the Flatiron Building this morning. EMS responded quickly and the individual is recovering.",
+      "date": "2025-04-11",
+      "time": "09:00",
+      "location": {"latitude": 40.7410, "longitude": -73.9898},
+      "tags": ["traffic", "emergency"],
+      "link": "https://localnewsnyc.com/article/102"
+    },
+    {
+      "id": 103,
+      "headline": "Flatiron Gas Leak Promptly Contained",
+      "summary": "Firefighters responded to a gas odor complaint on 5th Avenue. No injuries reported and the building was ventilated safely.",
+      "date": "2025-04-11",
+      "time": "11:30",
+      "location": {"latitude": 40.7411, "longitude": -73.9900},
+      "tags": ["utilities", "fire department"],
+      "link": "https://localnewsnyc.com/article/103"
+    },
+    {
+      "id": 104,
+      "headline": "Attempted Robbery at Convenience Store Thwarted by Clerk",
+      "summary": "A robbery attempt near 6th Avenue was stopped when a store clerk triggered a silent alarm. The suspect fled and is being sought.",
+      "date": "2025-04-10",
+      "time": "21:20",
+      "location": {"latitude": 40.7410, "longitude": -73.9901},
+      "tags": ["crime", "robbery"],
+      "link": "https://localnewsnyc.com/article/104"
+    },
+    {
+      "id": 105,
+      "headline": "Graffiti Spree Hits Flatiron Storefronts",
+      "summary": "Several storefronts along Broadway were defaced overnight. Police are reviewing security footage.",
+      "date": "2025-04-08",
+      "time": "08:45",
+      "location": {"latitude": 40.7415, "longitude": -73.9902},
+      "tags": ["vandalism", "community"],
+      "link": "https://localnewsnyc.com/article/105"
+    }
+  ]

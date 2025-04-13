@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "date": "2025-04-10",
+      "time": "21:10",
+      "location": { "latitude": 40.7410, "longitude": -73.9901 },
+      "locationName": "West 23rd Street Shops",
+      "description": "Robbery reported at local convenience store",
+      "active": true
+    },
+    {
+      "id": 2,
+      "date": "2025-04-09",
+      "time": "13:45",
+      "location": { "latitude": 40.7412, "longitude": -73.9895 },
+      "locationName": "Madison Square Park West",
+      "description": "Pickpocket incident reported in Madison Square Park",
+      "active": false
+    },
+    {
+      "id": 3,
+      "date": "2025-04-11",
+      "time": "02:30",
+      "location": { "latitude": 40.7408, "longitude": -73.9899 },
+      "locationName": "Broadway Subway Entrance",
+      "description": "Assault near subway entrance",
+      "active": true
+    },
+    {
+      "id": 4,
+      "date": "2025-04-08",
+      "time": "19:00",
+      "location": { "latitude": 40.7413, "longitude": -73.9894 },
+      "locationName": "5th Avenue Lofts",
+      "description": "Burglary in residential building",
+      "active": false
+    },
+    {
+      "id": 5,
+      "date": "2025-04-11",
+      "time": "06:55",
+      "location": { "latitude": 40.7411, "longitude": -73.9897 },
+      "locationName": "Flatiron North Plaza",
+      "description": "Vandalism reported on parked vehicles",
+      "active": true
+    },
+    {
+      "id": 6,
+      "date": "2025-04-10",
+      "time": "15:25",
+      "location": { "latitude": 40.7409, "longitude": -73.9900 },
+      "locationName": "23rd & 5th ATM Center",
+      "description": "Credit card fraud at nearby ATM",
+      "active": false
+    },
+    {
+      "id": 7,
+      "date": "2025-04-07",
+      "time": "12:40",
+      "location": { "latitude": 40.7406, "longitude": -73.9898 },
+      "locationName": "Broadway Office Tower",
+      "description": "Harassment complaint filed at office building",
+      "active": false
+    },
+    {
+      "id": 8,
+      "date": "2025-04-11",
+      "time": "10:10",
+      "location": { "latitude": 40.7412, "longitude": -73.9896 },
+      "locationName": "Madison Square Garage",
+      "description": "Vehicle theft reported from parking garage",
+      "active": true
+    },
+    {
+      "id": 9,
+      "date": "2025-04-09",
+      "time": "22:50",
+      "location": { "latitude": 40.7407, "longitude": -73.9892 },
+      "locationName": "22nd Street Apartments",
+      "description": "Assault with a weapon, suspect fled the scene",
+      "active": false
+    },
+    {
+      "id": 10,
+      "date": "2025-04-08",
+      "time": "08:30",
+      "location": { "latitude": 40.7415, "longitude": -73.9902 },
+      "locationName": "Flatiron Retail Row",
+      "description": "Graffiti reported on storefront",
+      "active": false
+    }
+  ]

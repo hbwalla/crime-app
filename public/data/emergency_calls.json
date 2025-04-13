@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "location": { "latitude": 40.7412, "longitude": -73.9896 },
+      "locationName": "Madison Square Plaza",
+      "date": "2025-04-11",
+      "time": "14:23",
+      "active": true,
+      "description": "Reported suspicious package near 23rd Street entrance"
+    },
+    {
+      "id": 2,
+      "location": { "latitude": 40.7409, "longitude": -73.9901 },
+      "locationName": "West 23rd Street Residences",
+      "date": "2025-04-10",
+      "time": "20:15",
+      "active": false,
+      "description": "Noise complaint from nearby apartment"
+    },
+    {
+      "id": 3,
+      "location": { "latitude": 40.7410, "longitude": -73.9898 },
+      "locationName": "Flatiron Building South Corner",
+      "date": "2025-04-11",
+      "time": "08:47",
+      "active": true,
+      "description": "Pedestrian struck by cyclist, minor injuries"
+    },
+    {
+      "id": 4,
+      "location": { "latitude": 40.7413, "longitude": -73.9895 },
+      "locationName": "5th Ave & East 23rd",
+      "date": "2025-04-09",
+      "time": "18:05",
+      "active": false,
+      "description": "Lost child reported, later found safe"
+    },
+    {
+      "id": 5,
+      "location": { "latitude": 40.7408, "longitude": -73.9894 },
+      "locationName": "Broadway & 22nd Street",
+      "date": "2025-04-10",
+      "time": "22:30",
+      "active": false,
+      "description": "Fight reported outside restaurant"
+    },
+    {
+      "id": 6,
+      "location": { "latitude": 40.7411, "longitude": -73.9900 },
+      "locationName": "Flatiron North Side",
+      "date": "2025-04-11",
+      "time": "11:12",
+      "active": true,
+      "description": "Possible gas leak smell reported on 5th Avenue"
+    },
+    {
+      "id": 7,
+      "location": { "latitude": 40.7410, "longitude": -73.9893 },
+      "locationName": "5th Avenue Shops",
+      "date": "2025-04-08",
+      "time": "16:45",
+      "active": false,
+      "description": "Medical emergency, ambulance dispatched"
+    },
+    {
+      "id": 8,
+      "location": { "latitude": 40.7414, "longitude": -73.9899 },
+      "locationName": "Madison Green Entrance",
+      "date": "2025-04-11",
+      "time": "09:32",
+      "active": true,
+      "description": "Traffic accident involving delivery truck"
+    },
+    {
+      "id": 9,
+      "location": { "latitude": 40.7412, "longitude": -73.9902 },
+      "locationName": "East 24th Street Lofts",
+      "date": "2025-04-09",
+      "time": "13:55",
+      "active": false,
+      "description": "Attempted break-in reported, no suspect on scene"
+    },
+    {
+      "id": 10,
+      "location": { "latitude": 40.7407, "longitude": -73.9898 },
+      "locationName": "Broadway Deli Corner",
+      "date": "2025-04-10",
+      "time": "17:20",
+      "active": false,
+      "description": "Fire alarm triggered, no fire found"
+    }
+  ]
